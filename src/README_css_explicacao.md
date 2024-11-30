@@ -1,3 +1,7 @@
+## 🌐
+[![Português](https://img.shields.io/badge/-Português-green)](./README_css_explicacao.md)  
+[![English](https://img.shields.io/badge/-English-blue)](./README_css_explanation.md)
+
 ## Reset.css 
  
 Foi utilizado para resetar a página da web, pois a mesma já vem com os estilos de forma default. Para tanto utilizou o seletor universal "*" aplicando a regra para todos os elementos da página. Com isso zera os espaços: Margem e Preenchimento interno. O "box-sizing: border-box" configura o tamanho total de um elemento (largura e altura) e inclui bordas e preenchimento, facilitando o controle do layout.

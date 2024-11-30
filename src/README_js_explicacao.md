@@ -1,3 +1,7 @@
+## 🌐
+[![Português](https://img.shields.io/badge/-Português-green)](./README_js_explicacao.md)  
+[![English](https://img.shields.io/badge/-English-blue)](./README_js_explanation.md)
+
 ## Explicação para a lógica utilizada
 
 ### Os números estão no (script.js)
